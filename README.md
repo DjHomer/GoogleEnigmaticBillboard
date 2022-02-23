@@ -1,2 +1,2 @@
 # GoogleEnigmaticBillboard
-Possibly solving all the answers from the Google's Mysterious Billboard in Silicon Valley
+Variation of Google Enigmatic Billboard- first 10 digit prime found in concesutive digits of eulers number
