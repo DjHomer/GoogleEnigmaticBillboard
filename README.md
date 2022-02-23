@@ -1,2 +1,2 @@
 # GoogleEnigmaticBillboard
-Variation of Google Enigmatic Billboard- first 10 digit prime found in concesutive digits of eulers number
+Variation of Google Enigmatic Billboard- first 10 digit prime found in concecutive digits of eulers number
